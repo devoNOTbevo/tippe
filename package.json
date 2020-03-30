@@ -12,5 +12,12 @@
     "aws-sdk": "^2.649.0",
     "colors": "^1.4.0",
     "sqs-consumer": "^5.4.0"
-  }
+  },
+  "keywords": [
+    "queue",
+    "sqs",
+    "node",
+    "multiple",
+    "consumer"
+  ]
 }
