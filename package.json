@@ -1,0 +1,16 @@
+{
+  "name": "tippe",
+  "version": "1.0.0",
+  "description": "a simple worker service for multiple SQS queue consumers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.649.0",
+    "colors": "^1.4.0",
+    "sqs-consumer": "^5.4.0"
+  }
+}
