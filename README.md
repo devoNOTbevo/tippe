@@ -1,4 +1,4 @@
-# Tippe - an all-in-one worker service for multiple
+# Tippe - an all-in-one worker service for multiple SQS queue consumers.
 
 ## Coming Soon
 
